@@ -5,7 +5,7 @@ This project demonstrates an AI-powered web scraping tool using LangChain, FastA
 ## Demo Video
 Watch the agent in action on YouTube: [AI Agent - WebScraper](https://youtu.be/bOzgokOK3ZA)
 
-## Preview Screenshot
+## Preview
 ![Description](AIAgent-WebScraper-screenshot1.PNG)
 
 ## What it does
