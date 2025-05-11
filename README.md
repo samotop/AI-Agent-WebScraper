@@ -3,7 +3,7 @@
 This project demonstrates an AI-powered web scraping tool using LangChain, FastAPI, and Retool.
 
 ## Demo Video
-Watch the agent in action on YouTube: [AI Agent - WebScraper](https://youtu.be/bOzgokOK3ZA)
+Watch the agent in action on YouTube: [AI Agent - WebScraper](https://youtu.be/oHuuriIwqcc)
 
 ## Preview
 ![Description](AIAgent-WebScraper-screenshot1.PNG)
